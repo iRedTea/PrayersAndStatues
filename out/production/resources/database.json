@@ -1,0 +1,16 @@
+{
+  "player123": {
+    "uuid": "1223",
+    "gods": {
+      "zevs": {
+        "speed": 2,
+        "protection": 1
+      }
+    },
+    "effectList": [
+      "SPEED:1",
+      "SPEED:2",
+      "PROTECTION:1"
+    ]
+  }
+}

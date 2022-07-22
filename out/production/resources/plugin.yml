@@ -1,0 +1,6 @@
+name: PrayersAndStatues
+version: '${version}'
+main: me.redtea.prayersandstatues.PrayersAndStatues
+api-version: 1.18
+commands:
+  prayer:
